@@ -1,5 +1,6 @@
 
 workspace()
+gouzigouzi
 
 import Base: convert, ==, isless, +, -, *, sin, cos, angle
 
